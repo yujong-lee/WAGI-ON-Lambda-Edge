@@ -1,0 +1,3 @@
+[[module]]
+route = "/hello"
+module = "./hello.gr.wasm"
